@@ -1,0 +1,16 @@
+- tests/
+  - ItemTest.php
+  - DatabaseTest.php
+  - ...
+- models/
+  - Item.php
+  - ItemHistory.php
+- controllers/
+  - ItemController.php
+- utils/
+  - validation.php
+  - token.php
+- routes.php
+- index.php
+- config.php
+- database.php
